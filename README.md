@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alexandra 👋
 
-<!--
-**s-kella/s-kella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science MSc student at the University of Geneva, working on synthetic image detection and digital image forensics.
 
-Here are some ideas to get you started:
+My current research focuses on detecting AI-generated images using residual-based analysis, denoising methods, and frequency-domain features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Synthetic image and deepfake detection
+- Image forensics for AI-generated content
+- Experiments with residual extraction and denoising-based methods
+- Frequency-domain analysis of synthetic image artifacts
+
+## Connect with me
+
+[LinkedIn](https://www.linkedin.com/in/alexandra-bolotina) · [Telegram](https://t.me/a_skella)
