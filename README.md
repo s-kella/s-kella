@@ -1,15 +1,12 @@
 # Hi, I'm Alexandra 👋
 
-I'm a Computer Science MSc student at the University of Geneva, working on synthetic image detection and digital image forensics.
+I'm an IT Project & AI Product Manager with a background in backend development and research in deepfake detection.
 
-My current research focuses on detecting AI-generated images using residual-based analysis, denoising methods, and frequency-domain features.
+I hold an MSc in Computer Science from the University of Geneva, where I researched AI-generated image detection.
 
-## What I'm working on
+These days, I focus on managing software and AI projects, bridging the gap between business needs and technical implementation.
 
-- Synthetic image and deepfake detection
-- Image forensics for AI-generated content
-- Experiments with residual extraction and denoising-based methods
-- Frequency-domain analysis of synthetic image artifacts
+This GitHub is now mostly a collection of my personal projects, experiments, and past work.
 
 ## Connect with me
 
